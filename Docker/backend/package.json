@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^0.27.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "googleapis": "^118.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.5-lts.1",
+    "or": "^0.2.0",
+    "react-datetime-picker": "^4.0.1",
+    "react-google-api": "^1.0.1",
+    "yarn": "^1.22.19"
+  }
+}

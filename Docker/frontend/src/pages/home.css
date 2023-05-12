@@ -1,0 +1,28 @@
+.home_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 234, 234);
+    max-width: 100vw;
+    max-height: 40vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgb(4, 132, 136);
+    -moz-box-shadow: 0 0 10px rgb(4, 132, 136);
+}
+.home_card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 234, 234);
+    max-width: 50vw;
+    max-height: 40vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgb(4, 132, 136);
+    -moz-box-shadow: 0 0 10px rgb(4, 132, 136);
+}

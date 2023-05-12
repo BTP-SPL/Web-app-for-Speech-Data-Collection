@@ -1,0 +1,63 @@
+.main_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    max-width: 50vw;
+    max-height: 60vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 10px;
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+    -webkit-box-shadow: 0 0 10px rgb(4, 132, 136);
+    -moz-box-shadow: 0 0 10px rgb(4, 132, 136);
+
+}
+
+.text_box{
+    height: 70vh;
+    width: 40vw;
+    padding-top: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    background-color: rgb(233, 241, 246);
+    border-radius: .4vw;
+}
+.button-style{
+    background-color: rgb(0, 149, 255);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: 1.3vh 1vh;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.button-style:hover{
+    transition: 1s;
+    background-color: rgb(33, 206, 117);
+    transform: scale(1.05);
+}
+.button-style1{
+    background-color: rgb(0, 149, 255);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: 1vh 1vh;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.button-style1:hover{
+    transition: 1s;
+    background-color: rgb(33, 206, 117);
+    transform: scale(1.05);
+}
